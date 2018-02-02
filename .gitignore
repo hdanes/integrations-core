@@ -98,3 +98,5 @@ tmp
 # wheels
 wheelhouse/
 *.whl
+
+.pytest_cache
